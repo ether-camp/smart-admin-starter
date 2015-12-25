@@ -1,0 +1,22 @@
+# Idea
+.idea
+*.iml
+
+# Gradle
+.gradle
+build
+
+# jenv
+.java-version
+
+# logs
+logs
+
+# MacOS
+.DS_Store
+
+# docs
+docs
+
+# npm
+node_modules
